@@ -14,7 +14,7 @@ type Block = {
   context: unknown;
 };
 
-export default class Timeline {
+export default class PdTimeline {
   timeBlocks: Record<string, Block>;
   currentTime: number;
   duration: number;
