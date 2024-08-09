@@ -4,14 +4,14 @@ TypeScript port of [Playdate Timeline](https://github.com/mierau/playdate-timeli
 
 ## How to use
 
-```
+```sh
 npm i @daeinc/pd-timeline
 ```
 
 Then,
 
-```
-import PdTimeline from "@daeinc/pd-timeline"
+```ts
+import PdTimeline from "@daeinc/pd-timeline";
 ```
 
 ## License
