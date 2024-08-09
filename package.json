@@ -39,5 +39,9 @@
   ],
   "bugs": {
     "url": "https://github.com/cdaein/pd-timeline/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
